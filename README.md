@@ -1,2 +1,0 @@
-# malfrodi_data
-Hæ
