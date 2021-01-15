@@ -1,4 +1,4 @@
-# malfrodi_data
+# Málfróði: Data
 
 Í þessari gagnahirslu má finna öll þau gögn sem orðið hafa til sem afurðir [Málfróða](https://malfrodi.is).
 
